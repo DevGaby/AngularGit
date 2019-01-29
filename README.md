@@ -1,2 +1,2 @@
 # Angular
-Exos de cours Angular
+Exos de cours Angular & Ionic
